@@ -53,4 +53,4 @@ This software's main purpose is NOT to be used maliciously, or on any system tha
 By using this software, you automatically agree to the above.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for detailss
