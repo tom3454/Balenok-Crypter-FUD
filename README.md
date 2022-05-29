@@ -17,7 +17,7 @@ Notification
 Single Instance
 Anti WM
 Anti Submission
-Execution Delay
+Execution Delays
 Advanced Runtime
 Exclusion Windows Defender
 Memory Bombing
