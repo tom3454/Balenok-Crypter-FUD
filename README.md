@@ -4,7 +4,7 @@ An obfuscation tool for .Net + Native files.
 Main Features
 .NET - Coded in C#, required framework 4.0 dependency.
 
-Injection - Hide payload behind a legit process
+Injection - Hide payload behibdd a legit process
 
 Features
 Bit 32/64 bit
